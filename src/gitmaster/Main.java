@@ -5,6 +5,7 @@ public class Main {
 		System.out.println("hello world");
 		System.out.println("I hate poop");
 		System.out.println("poop");
+		System.out.println("shit your gay");
 
 	}
 
