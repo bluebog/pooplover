@@ -6,6 +6,7 @@ public class Main {
 		System.out.println("I hate poop");
 		System.out.println("poop");
 		System.out.println("shit your gay");
+		System.out.println("coding apple love poop");
 
 	}
 
